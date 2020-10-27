@@ -58,13 +58,14 @@ education:
       details: |
         研究方向：电化学
 experiences:
+    title: "工作经历"
     - role: 研发分析岗
       time: 2018.7 - 至今
       company: 南京斯拜科生化实业有限公司
       details: |
         硕士研究生毕业后，在一家化妆品公司担任教授助手，从事植物提取分析工作，研究从植物中提取具有药用功能的天然原料。其中，我主要参与这些天然药物的检测分析，分析方法开发，新产品专利申报的文献编写等工作。分析中主要用到的仪器有 HPLC，UV，GC 和 AAS。
 projects:
-    title: 研究经历
+    title: "研究经历"
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
