@@ -1,0 +1,127 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: 程若兰
+    tagline:
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ruolancheng@126.com
+    phone: (+86)15298374911
+    website: researchagte网址 #do not add http://
+    linkedin: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: IELTS 6.5
+
+      - idiom: Chinese
+        level: Native
+
+    interests:
+      - item: Running
+        link:
+
+      - item: Table Tennis
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: 简介
+    summary: |
+      简单的自我介绍
+education:
+    - degree: 工学硕士（应用化学）
+      university: 中国矿业大学
+      time: 2015.9 - 2018.6
+      details: |
+        研究方向：电催化氧化
+    - degree: 理学学士（应用化学）
+      university: 安徽理工大学
+      time: 2011.9 - 2015.6
+      details: |
+        研究方向：电化学
+experiences:
+    title: 工作经历
+    - role: 研发分析岗
+      time: 2018.7 - 至今
+      company: 南京斯拜科生化实业有限公司
+      details: |
+      硕士研究生毕业后，在一家化妆品公司担任教授助手，从事植物提取分析工作，研究从植物中提取具有药用功能的天然原料。其中，我主要参与这些天然药物的检测分析，分析方法开发，新产品专利申报的文献编写等工作。分析中主要用到的仪器有 HPLC，UV，GC 和 AAS。
+projects:
+    title: 研究经历
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - name: 项目 1 电化学振荡硫沉积的跨尺度时空动力学
+      time: 2015.9 - 2018.5
+      company: 
+      details: |
+      项目研究多晶铂（Pt）电极电催化氧化 Na2S 的非线性动力学行为，结合电极表面的硫沉积斑图，分析 Na2S在铂电极上的电氧化机理。铂电极在不同电位区间生成的氧化产物不同，因此其催化氧化S2-的能力不同。在项目中，研究了：①铂氧化物生成的影响因素（扫描电位，溶液 pH，串联电阻）；②阴离子在电极表面吸附、 ③WE 与 CE 之间引入串联电阻对Na2S电氧化反应的影响。这些因素的改变导致体系正负反馈强度之间的变化，从而使电极表面产生各种硫沉积斑图与电流振荡行为。最后，将项目研究所取得的部分研究成果形成了硕士论文《硫化钠在多晶铂电极上的电催化氧化动力学的硫酸盐效应》。
+    - name: 项目 2 硫（-II）化合物电催化氧化的界面物种在线追踪与反应机理
+      time: 2016.9 - 2017.3
+      company: 
+      details: |
+      采用电化学分析-高效液相色谱联用技术（CV-HPLC），分析硫代硫酸盐（S2O32-）在不同扫描电位下电极界面处物种的组成及浓度变化，结合 CV 曲线对 S2O32-电氧化反应机理进行分析。通过电极界面处的取样器将不同条件下溶液收集到微孔板中，待电化学实验结束后再进行液相分析，即在线取样和非在线分析相结合。
+      我主要研究了工作电极正下方的取样器取样速度对 S2O32-电氧化反应的影响。实验发现，随着取样速度增大，CV曲线的氧化电流呈增大趋势。这种现象类似于在溶液中增加搅拌器，增强了电极表面的传质，有利于反应产物从电极表面扩散，反应物到达电极界面处。同时，高效液相色谱检测到在氧化峰电位区反应产物 S4O62- 和 S5O62-浓度达到最大值，而反应物 S2O32-浓度达到最低值。因此，电化学工作站与高效液相联用，能够为反应机理的分析提供相互佐证。
+    - name: 项目 3 铂纳米电极的制备及脱氯性能研究
+      time:  2014.9- 2015.5
+      company: 
+      details: |
+      在 ITO导电玻璃上电化学沉积不同结构的石墨烯-铂纳米镀层，检测制备的薄膜电极对含氯有机物的脱氯能力。根据制备镀层电极的 SEM 图片及 CV 曲线发现，镶嵌在石墨烯薄膜结构中的铂纳米颗粒对二氯甲苯具有好的脱氯效果。
+publications:
+    title: 在读期间发表的学术论文、获奖情况
+    intro: |
+      发表的论文与获奖情况
+    papers:
+      - title: Periodic Transition between Breathing Spots and Synchronous Sulfur Deposition/Dissolution in Transpassive Region of the Electro-Oxidation of Sulfide on Platinum
+        link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.201700279"
+        authors: Pan C, Cheng R, Birzu A, et al.
+        conference: . Chemelectrochem, 2017, 4(8). DOI: 10.1002/celc.201700279
+      - title: Sulfate-induced electrochemical instability in the  transpassive region during the electrooxidation of Na2S on Pt
+        link: "http://link.springer.com/article/10.1007/s10008-019-04234-4"
+        authors: Cheng R, Shi M.
+        conference: "Journal of Solid State Electrochemistry, 2019. DOI: 10.1007/s10008-019-04234-4"
+      - title: 江苏省第十四届五一数学建模竞赛 
+        link: 
+        authors: 程若兰，刘笑笑
+        conference: "一等奖"
+      - title: 中国矿业大学一等学业奖学金
+        link: 
+        authors: 程若兰
+        conference: "2016年度"
+
+skills:
+    title: 掌握的相关技能
+
+    toolset:
+      - name: 电化学工作站
+        level: 98%
+
+      - name: Origin
+        level: 98%
+
+      - name: R
+        level: 90%
+
+      - name: CorelDRAW & Illustrator
+        level: 80%
+
+footer: >
