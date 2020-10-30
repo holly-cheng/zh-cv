@@ -68,13 +68,13 @@ projects:
       time: 2015.9 - 2018.5
       company: 
       details: |
-        项目研究多晶铂（Pt）电极电催化氧化 Na2S 的非线性动力学行为，结合电极表面的硫沉积斑图，分析 Na2S在铂电极上的电氧化机理。铂电极在不同电位区间生成的氧化产物不同，因此其催化氧化S2-的能力不同。在项目中，研究了：①铂氧化物生成的影响因素（扫描电位，溶液 pH，串联电阻）；②阴离子在电极表面吸附、 ③WE 与 CE 之间引入串联电阻对Na2S电氧化反应的影响。这些因素的改变导致体系正负反馈强度之间的变化，从而使电极表面产生各种硫沉积斑图与电流振荡行为。最后，将项目研究所取得的部分研究成果形成了硕士论文《硫化钠在多晶铂电极上的电催化氧化动力学的硫酸盐效应》。
+        项目研究多晶铂（Pt）电极电催化氧化 Na<sub>2</sub>S 的非线性动力学行为，结合电极表面的硫沉积斑图，分析 Na2S在铂电极上的电氧化机理。铂电极在不同电位区间生成的氧化产物不同，因此其催化氧化S<sub>2</sub><sup>-</sup>的能力不同。在项目中，研究了：①铂氧化物生成的影响因素（扫描电位，溶液 pH，串联电阻）；②阴离子在电极表面吸附、 ③WE 与 CE 之间引入串联电阻对Na<sub>2</sub>S电氧化反应的影响。这些因素的改变导致体系正负反馈强度之间的变化，从而使电极表面产生各种硫沉积斑图与电流振荡行为。最后，将项目研究所取得的部分研究成果形成了硕士论文《硫化钠在多晶铂电极上的电催化氧化动力学的硫酸盐效应》。
     - name: 项目 2 硫（-II）化合物电催化氧化的界面物种在线追踪与反应机理
       time: 2016.9 - 2017.3
       company: 
       details: |
-        采用电化学分析-高效液相色谱联用技术（CV-HPLC），分析硫代硫酸盐（S2O32-）在不同扫描电位下电极界面处物种的组成及浓度变化，结合 CV 曲线对 S2O32-电氧化反应机理进行分析。通过电极界面处的取样器将不同条件下溶液收集到微孔板中，待电化学实验结束后再进行液相分析，即在线取样和非在线分析相结合。
-        我主要研究了工作电极正下方的取样器取样速度对 S2O32-电氧化反应的影响。实验发现，随着取样速度增大，CV曲线的氧化电流呈增大趋势。这种现象类似于在溶液中增加搅拌器，增强了电极表面的传质，有利于反应产物从电极表面扩散，反应物到达电极界面处。同时，高效液相色谱检测到在氧化峰电位区反应产物 S4O62- 和 S5O62-浓度达到最大值，而反应物 S2O32-浓度达到最低值。因此，电化学工作站与高效液相联用，能够为反应机理的分析提供相互佐证。
+        采用电化学分析-高效液相色谱联用技术（CV-HPLC），分析硫代硫酸盐（S<sub>2</sub>O<sub>3</sub><sup>2-</sup>）在不同扫描电位下电极界面处物种的组成及浓度变化，结合 CV 曲线对 S<sub>2</sub>O<sub>3</sub><sup>2-</sup>电氧化反应机理进行分析。通过电极界面处的取样器将不同条件下溶液收集到微孔板中，待电化学实验结束后再进行液相分析，即在线取样和非在线分析相结合。
+        我主要研究了工作电极正下方的取样器取样速度对 S<sub>2</sub>O<sub>3</sub><sup>2-</sup>电氧化反应的影响。实验发现，随着取样速度增大，CV曲线的氧化电流呈增大趋势。这种现象类似于在溶液中增加搅拌器，增强了电极表面的传质，有利于反应产物从电极表面扩散，反应物到达电极界面处。同时，高效液相色谱检测到在氧化峰电位区反应产物 S<sub>4</sub>O<sub>6</sub><sup>2-</sup> 和 S<sub>5</sub>O<sub>6</sub><sup>2-</sup>浓度达到最大值，而反应物 S<sub>2</sub>O<sub>3</sub><sup>2-</sup>浓度达到最低值。因此，电化学工作站与高效液相联用，能够为反应机理的分析提供相互佐证。
     - name: 项目 3 铂纳米电极的制备及脱氯性能研究
       time:  2014.9- 2015.5
       company: 
@@ -89,7 +89,7 @@ publications:
         link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.201700279"
         authors: Pan C, Cheng R, Birzu A, et al.
         conference: "Chemelectrochem, 2017, 4(8). DOI: 10.1002/celc.201700279"
-      - title: Sulfate-induced electrochemical instability in the  transpassive region during the electrooxidation of Na2S on Pt
+      - title: Sulfate-induced electrochemical instability in the  transpassive region during the electrooxidation of Na<sub>2</sub>S on Pt
         link: "http://link.springer.com/article/10.1007/s10008-019-04234-4"
         authors: Cheng R, Shi M.
         conference: "Journal of Solid State Electrochemistry, 2019. DOI: 10.1007/s10008-019-04234-4"
