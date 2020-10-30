@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -27,23 +27,23 @@ sidebar:
 
     languages:
       - idiom: English
-        level: IELTS 6.5
+        level: IELTS 7.0
 
       - idiom: Chinese
         level: Native
 
     interests:
-      - item: Running
+      - item: 运动
         link:
 
-      - item: Table Tennis
+      - item: 网球&乒乓球
         link:
 
-      - item: Cooking
+      - item: 厨艺
         link:
 
 career-profile:
-    title: 简介
+    title: 个人简介
     summary: |
         简单的自我介绍
 education:
